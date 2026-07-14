@@ -42,9 +42,9 @@ Transform PDFs into interactive learning workspaces with AI-powered conversation
 
 Instead of simply viewing PDFs, users can upload documents and instantly convert them into intelligent study workspaces. Each uploaded document becomes an interactive environment where users can ask questions, generate study notes, test their understanding through quizzes, and reinforce learning using flashcards.
 
-Designed with both performance and reliability in mind, DocScope AI performs PDF parsing entirely on the server, reducing browser overhead while maintaining fast response times. Its strict grounding strategy ensures that AI responses remain faithful to the uploaded document, minimizing hallucinations and improving trustworthiness.
+Designed with both performance and reliability in mind, Infidocs AI performs PDF parsing entirely on the server, reducing browser overhead while maintaining fast response times. Its strict grounding strategy ensures that AI responses remain faithful to the uploaded document, minimizing hallucinations and improving trustworthiness.
 
-Whether you're studying lecture notes, reviewing technical documentation, or exploring research papers, DocScope AI provides an efficient and engaging way to learn directly from your documents.
+Whether you're studying lecture notes, reviewing technical documentation, or exploring research papers, Infidocs AI provides an efficient and engaging way to learn directly from your documents.
 
 ---
 
@@ -189,7 +189,7 @@ Highlights include:
 
 ---
 
-# 🚀 Why DocScope AI?
+# 🚀 Why Infidocs AI?
 
 Infidocs AI was created as a hands-on exploration of how modern AI technologies can enhance document-based learning.
 
@@ -933,7 +933,7 @@ Key practices include:
 
 # 🌐 Browser Compatibility
 
-DocScope AI supports all major modern browsers.
+Infidocs AI supports all major modern browsers.
 
 - ✅ Google Chrome
 - ✅ Microsoft Edge
@@ -966,13 +966,13 @@ The workspace adapts automatically, ensuring that AI Chat, Notes, Quiz, and Flas
 
 # 🎨 User Interface Highlights
 
-DocScope AI is designed to provide a focused, distraction-free learning experience where the document remains at the center of every interaction. The interface emphasizes readability, intuitive navigation, and seamless transitions between AI-powered learning tools.
+Infidocs AI is designed to provide a focused, distraction-free learning experience where the document remains at the center of every interaction. The interface emphasizes readability, intuitive navigation, and seamless transitions between AI-powered learning tools.
 
 ---
 
 ## 🌿 Modern Earthy Design System
 
-Unlike traditional light or dark themes, DocScope AI adopts a warm, earthy visual identity inspired by paper-based reading experiences.
+Unlike traditional light or dark themes, Infidocs AI adopts a warm, earthy visual identity inspired by paper-based reading experiences.
 
 The design features:
 
@@ -1094,7 +1094,7 @@ Performance optimizations include:
 
 # 🤖 AI Pipeline
 
-DocScope AI combines Retrieval-Augmented Generation (RAG), server-side PDF parsing, and Groq inference to deliver reliable, document-grounded responses.
+Infidocs AI combines Retrieval-Augmented Generation (RAG), server-side PDF parsing, and Groq inference to deliver reliable, document-grounded responses.
 
 ---
 
@@ -1143,7 +1143,7 @@ Workspace UI
 
 ## 📄 Server-Side PDF Processing
 
-Rather than processing PDFs inside the browser, DocScope AI performs extraction entirely on the server.
+Rather than processing PDFs inside the browser, Infidocs AI performs extraction entirely on the server.
 
 Advantages include:
 
@@ -1159,7 +1159,7 @@ Advantages include:
 
 Large PDF files often exceed an LLM's context window.
 
-To improve performance, DocScope AI:
+To improve performance, Infidocs AI:
 
 - Extracts document text
 - Cleans unnecessary content
@@ -1194,7 +1194,7 @@ This grounding strategy significantly improves trustworthiness and minimizes hal
 
 # 🏗️ Technical Highlights
 
-DocScope AI combines several modern web and AI technologies into a unified learning platform.
+Infidocs AI combines several modern web and AI technologies into a unified learning platform.
 
 ### Frontend
 
@@ -1243,7 +1243,7 @@ DocScope AI combines several modern web and AI technologies into a unified learn
 
 # 📚 Learning Outcomes
 
-DocScope AI was developed as a practical exploration of AI-powered document intelligence and modern full-stack application development.
+Infidocs AI was developed as a practical exploration of AI-powered document intelligence and modern full-stack application development.
 
 Key concepts explored throughout the project include:
 
@@ -1264,7 +1264,7 @@ The project demonstrates how AI can be combined with modern web technologies to 
 
 # 🚀 Future Improvements
 
-DocScope AI provides a strong foundation for AI-assisted learning, with several enhancements planned for future releases.
+Infidocs AI provides a strong foundation for AI-assisted learning, with several enhancements planned for future releases.
 
 ## Planned Features
 
@@ -1297,7 +1297,7 @@ DocScope AI provides a strong foundation for AI-assisted learning, with several 
 
 Contributions, ideas, and feedback are always welcome.
 
-If you'd like to contribute to DocScope AI, follow these steps.
+If you'd like to contribute to Infidocs AI, follow these steps.
 
 ---
 
@@ -1413,7 +1413,7 @@ Special thanks to:
 - Git
 - GitHub
 
-These tools and platforms played a key role in bringing DocScope AI to life.
+These tools and platforms played a key role in bringing Infidocs AI to life.
 
 ---
 
@@ -1421,7 +1421,7 @@ These tools and platforms played a key role in bringing DocScope AI to life.
 
 > **Current Status:** Active
 
-DocScope AI is fully functional, deployed, and continuously evolving.
+Infidocs AI is fully functional, deployed, and continuously evolving.
 
 This project was built as part of my exploration of modern AI application development, combining Retrieval-Augmented Generation, serverless architectures, cloud-native services, and intelligent document processing into a practical educational platform.
 
@@ -1431,11 +1431,11 @@ As I continue learning, I plan to expand the platform with more advanced AI capa
 
 # 💡 Final Thoughts
 
-Building DocScope AI has been an exciting opportunity to explore how artificial intelligence can transform the way people interact with documents.
+Building Infidocs AI has been an exciting opportunity to explore how artificial intelligence can transform the way people interact with documents.
 
 From integrating Retrieval-Augmented Generation and server-side PDF processing to designing an intuitive learning workspace, every stage of development strengthened my understanding of modern AI systems, full-stack engineering, and scalable application architecture.
 
-More than just an AI chatbot, DocScope AI represents my journey toward building practical, intelligent software that combines robust engineering with meaningful user experiences.
+More than just an AI chatbot, Infidocs AI represents my journey toward building practical, intelligent software that combines robust engineering with meaningful user experiences.
 
 ---
 
@@ -1443,7 +1443,7 @@ More than just an AI chatbot, DocScope AI represents my journey toward building 
 
 # 📚 Learn Smarter with AI
 
-Thank you for exploring **DocScope AI**.
+Thank you for exploring **Infidocs AI**.
 
 If you enjoyed this project, consider giving the repository a ⭐ to support its continued development.
 
