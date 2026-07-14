@@ -38,7 +38,7 @@ Transform PDFs into interactive learning workspaces with AI-powered conversation
 
 # 📖 Overview
 
-**DocScope AI** is a modern AI-powered document learning platform that transforms traditional PDF documents into interactive learning experiences. Built with **Next.js 16**, **React 19**, **TypeScript**, **Supabase**, and **Groq**, the application leverages **Retrieval-Augmented Generation (RAG)** to provide accurate, document-grounded answers without relying on external knowledge.
+**Infidocs AI** is a modern AI-powered document learning platform that transforms traditional PDF documents into interactive learning experiences. Built with **Next.js 16**, **React 19**, **TypeScript**, **Supabase**, and **Groq**, the application leverages **Retrieval-Augmented Generation (RAG)** to provide accurate, document-grounded answers without relying on external knowledge.
 
 Instead of simply viewing PDFs, users can upload documents and instantly convert them into intelligent study workspaces. Each uploaded document becomes an interactive environment where users can ask questions, generate study notes, test their understanding through quizzes, and reinforce learning using flashcards.
 
@@ -133,7 +133,7 @@ Flashcards provide:
 
 ## 🛡️ Anti-Hallucination AI
 
-One of DocScope AI's core strengths is its strict grounding strategy.
+One of Infidocs AI's core strengths is its strict grounding strategy.
 
 The AI:
 
@@ -148,7 +148,7 @@ This significantly improves the reliability of generated responses.
 
 ## ⚡ Optimized Server-Side PDF Parsing
 
-Rather than parsing PDFs in the browser, DocScope AI performs extraction entirely on the server.
+Rather than parsing PDFs in the browser, Infidocs AI performs extraction entirely on the server.
 
 Benefits include:
 
@@ -176,7 +176,7 @@ Features include:
 
 ## 🎨 Modern Learning Interface
 
-DocScope AI adopts a clean, distraction-free design built around an earthy, high-contrast visual theme.
+Infidocs AI adopts a clean, distraction-free design built around an earthy, high-contrast visual theme.
 
 Highlights include:
 
@@ -191,7 +191,7 @@ Highlights include:
 
 # 🚀 Why DocScope AI?
 
-DocScope AI was created as a hands-on exploration of how modern AI technologies can enhance document-based learning.
+Infidocs AI was created as a hands-on exploration of how modern AI technologies can enhance document-based learning.
 
 Rather than building a traditional PDF viewer, the goal was to combine **Large Language Models**, **Retrieval-Augmented Generation**, **server-side document processing**, and **interactive learning tools** into a unified educational platform.
 
@@ -269,7 +269,7 @@ The result is a scalable, AI-first learning platform that demonstrates how moder
 
 # 🏗️ Architecture
 
-DocScope AI follows a modern serverless architecture where the Next.js frontend, API routes, AI inference pipeline, and Supabase services work together to deliver document-grounded learning experiences.
+Infidocs AI follows a modern serverless architecture where the Next.js frontend, API routes, AI inference pipeline, and Supabase services work together to deliver document-grounded learning experiences.
 
 ```text
                     ┌─────────────────────┐
@@ -407,7 +407,7 @@ Suggested demonstrations:
 
 ### 🚀 Application
 
-**DocScope AI**
+**Infidocs AI**
 
 https://infi-docs-ai.vercel.app
 
@@ -431,7 +431,7 @@ https://infi-docs-ai.vercel.app
 
 # ⚙️ Installation
 
-Follow the steps below to set up **DocScope AI** on your local machine.
+Follow the steps below to set up **Infidocs AI** on your local machine.
 
 ## 📋 Prerequisites
 
@@ -479,7 +479,7 @@ npm install
 
 # 🔑 Environment Variables
 
-DocScope AI relies on environment variables for AI services, authentication, and cloud storage.
+Infidocs AI relies on environment variables for AI services, authentication, and cloud storage.
 
 Create a `.env.local` file in the project root.
 
@@ -577,7 +577,7 @@ infidocs-ai/
 
 # 🚀 Application Workflow
 
-The following sequence illustrates how users interact with DocScope AI.
+The following sequence illustrates how users interact with Infidocs AI.
 
 ```text
 Launch Application
@@ -654,7 +654,7 @@ Only authenticated users can:
 
 # 📄 PDF Processing Workflow
 
-When a user uploads a PDF, DocScope AI automatically prepares it for AI-powered learning.
+When a user uploads a PDF, Infidocs AI automatically prepares it for AI-powered learning.
 
 Processing pipeline:
 
@@ -677,7 +677,7 @@ Later, whenever the user interacts with the document, the server retrieves the P
 
 # 🤖 Retrieval-Augmented Generation (RAG) Workflow
 
-DocScope AI uses a Retrieval-Augmented Generation pipeline to ensure responses remain grounded in the uploaded document.
+Infidocs AI uses a Retrieval-Augmented Generation pipeline to ensure responses remain grounded in the uploaded document.
 
 ```text
 User Question
@@ -726,7 +726,7 @@ Benefits include:
 
 ## Anti-Hallucination Strategy
 
-One of DocScope AI's defining features is its strict grounding policy.
+One of Infidocs AI's defining features is its strict grounding policy.
 
 The AI is instructed to:
 
@@ -775,7 +775,7 @@ Generate flashcards for active recall and efficient revision.
 
 # 📡 API Routes
 
-DocScope AI leverages Next.js Route Handlers to implement serverless backend functionality.
+Infidocs AI leverages Next.js Route Handlers to implement serverless backend functionality.
 
 ## AI Chat
 
@@ -835,7 +835,7 @@ React UI Update
 
 # ☁️ Deployment
 
-DocScope AI is fully deployed using a modern serverless architecture.
+Infidocs AI is fully deployed using a modern serverless architecture.
 
 ## Frontend
 
