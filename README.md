@@ -415,14 +415,6 @@ infidocs-ai/
 
 ---
 
-### 📝 AI Notes
-
-<img src="./assets/screenshots/notes.png"
-     alt="InfiDocs AI Notes"
-     width="100%">
-
----
-
 ### 🧠 AI Quiz
 
 <img src="./assets/screenshots/quiz.png"
