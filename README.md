@@ -384,22 +384,13 @@ Recommended screenshots to include:
 
 ---
 
-## 🎥 Demo GIFs
+## 🎬 Live Demo
 
-> **Demo recordings will be added soon.**
-
-Suggested demonstrations:
-
-- User Authentication
-- Uploading a PDF
-- Creating a Workspace
-- Asking Questions
-- AI Response Generation
-- Study Notes Creation
-- Quiz Generation
-- Flashcard Learning
-- Switching Between Workspace Tabs
-- Mobile Experience
+<p align="center">
+  <img src="./assets/gifs/demo.gif"
+       alt="DocScope AI demonstrating PDF upload, AI-powered document conversations, study notes generation, quizzes, flashcards, and intelligent document learning."
+       width="100%">
+</p>
 
 ---
 
