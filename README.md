@@ -363,27 +363,6 @@ infidocs-ai/
 └── tsconfig.json
 ```
 
----
-
-# 📸 Screenshots
-
-> **Screenshots will be added soon.**
-
-Recommended screenshots to include:
-
-- 🏠 Landing Page
-- 🔐 Login Page
-- 📝 Signup Page
-- 📂 Dashboard
-- 📄 PDF Upload Interface
-- 💬 AI Chat Workspace
-- 📝 Study Notes Panel
-- ❓ Quiz Engine
-- 🗂️ Flashcard Interface
-- 📱 Mobile Responsive View
-
----
-
 ## 🎬 Live Demo
 
 <p align="center">
@@ -391,6 +370,88 @@ Recommended screenshots to include:
        alt="DocScope AI demonstrating PDF upload, AI-powered document conversations, study notes generation, quizzes, flashcards, and intelligent document learning."
        width="100%">
 </p>
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Landing Page
+
+<img src="./assets/screenshots/landing-page.png"
+     alt="InfiDocs AI Landing Page"
+     width="100%">
+
+---
+
+### 🔐 Sign In
+
+<img src="./assets/screenshots/sign-in.png"
+     alt="InfiDocs AI Sign In"
+     width="100%">
+
+---
+
+### 📝 Sign Up
+
+<img src="./assets/screenshots/sign-up.png"
+     alt="InfiDocs AI Sign Up"
+     width="100%">
+
+---
+
+### 📊 Dashboard
+
+<img src="./assets/screenshots/dashboard.png"
+     alt="InfiDocs AI Dashboard"
+     width="100%">
+
+---
+
+### 💬 AI Chat Workspace
+
+<img src="./assets/screenshots/chat-workspace.png"
+     alt="InfiDocs AI Chat Workspace"
+     width="100%">
+
+---
+
+### 📝 AI Notes
+
+<img src="./assets/screenshots/notes.png"
+     alt="InfiDocs AI Notes"
+     width="100%">
+
+---
+
+### 🧠 AI Quiz
+
+<img src="./assets/screenshots/quiz.png"
+     alt="InfiDocs AI Quiz"
+     width="100%">
+
+---
+
+### 🏆 Quiz Results
+
+<img src="./assets/screenshots/quiz-results.png"
+     alt="InfiDocs AI Quiz Results"
+     width="100%">
+
+---
+
+### 🃏 Flashcards
+
+<img src="./assets/screenshots/flashcards.png"
+     alt="InfiDocs AI Flashcards"
+     width="100%">
+
+---
+
+### 📄 Learning Summary Report
+
+<img src="./assets/screenshots/learning-summary-report.png"
+     alt="InfiDocs AI Learning Summary Report"
+     width="100%">
 
 ---
 
