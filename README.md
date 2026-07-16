@@ -439,14 +439,6 @@ infidocs-ai/
 
 ---
 
-### 📄 Learning Summary Report
-
-<img src="./assets/screenshots/learning-summary-report.png"
-     alt="InfiDocs AI Learning Summary Report"
-     width="100%">
-
----
-
 # 🌐 Live Demo
 
 ### 🚀 Application
